@@ -1,0 +1,48 @@
+.header{
+
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+
+
+
+}
+
+.grid{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+border: 2px solid black;
+border-radius: 50px;
+
+
+}
+
+
+
+
+.item {
+
+border-radius: 20px;
+background-color: white;
+
+width: 310px;
+font-family: fantasy;
+
+
+}
+
+.footer{
+
+    display: flex;
+    justify-content: flex-end;
+}
+
+h2,p{
+
+    text-align: center;
+
+}
+
